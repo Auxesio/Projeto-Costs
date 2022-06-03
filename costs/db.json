@@ -1,54 +1,6 @@
 {
   "projects": [
     {
-      "name": "Projeto Atualizado",
-      "budget": "7000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 284,
-      "services": [
-        {
-          "name": " Meu novo serviço",
-          "cost": "100",
-          "description": "faz isso aqui",
-          "id": "b1d9f60d-8db6-41c8-846b-6db066cdfb52"
-        },
-        {
-          "name": " Meu novo serviço",
-          "cost": "100",
-          "description": "faz isso aqui",
-          "id": "b1d9f60d-8db6-41c8-846b-6db066cdfb52"
-        },
-        {
-          "name": "dawdawd",
-          "cost": "21",
-          "description": "dawdawd",
-          "id": "98826c34-8b89-4895-a2b7-e8c53221c8c7"
-        },
-        {
-          "name": "dawdawd",
-          "cost": "21",
-          "description": "dawdawd",
-          "id": "98826c34-8b89-4895-a2b7-e8c53221c8c7"
-        },
-        {
-          "name": "dawdawd",
-          "cost": "21",
-          "description": "dawdawd",
-          "id": "98826c34-8b89-4895-a2b7-e8c53221c8c7"
-        },
-        {
-          "name": "dawdawd",
-          "cost": "21",
-          "description": "dawdawd",
-          "id": "98826c34-8b89-4895-a2b7-e8c53221c8c7"
-        }
-      ],
-      "id": 2
-    },
-    {
       "name": "Cabaré Micouis",
       "budget": "27000",
       "category": {
@@ -66,8 +18,15 @@
       },
       "name": "Como Invadir a Angola",
       "budget": "100000",
-      "cost": 0,
-      "services": [],
+      "cost": 500,
+      "services": [
+        {
+          "name": "Contratar Dev PhP",
+          "cost": "500",
+          "description": "vai criar a função de envio de e-mails",
+          "id": "f0c88c2e-fa0c-4646-8018-9bcbea7b9288"
+        }
+      ],
       "id": 5
     }
   ],
