@@ -32,3 +32,11 @@
     font-weight: bold;
     color: #ffbb33;
 }
+
+.rede {
+    color: #fff;
+}
+
+.rede:hover {
+    color: #ffbb33;
+}

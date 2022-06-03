@@ -6,7 +6,7 @@ function Footer() {
     return (
         <footer className={styles.footer}>
             <ul className={styles.social_list}>
-                <li><FaFacebook /></li>
+                <li><a className={styles.rede} href="https://www.youtube.com/watch?v=LRAFz0iMTa8&ab_channel=takeshi"><FaFacebook /></a></li>
                 <li><FaInstagram /></li>
                 <li><FaLinkedin /></li>
             </ul>
