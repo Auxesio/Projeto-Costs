@@ -35,8 +35,10 @@
 
 .rede {
     color: #fff;
+    
 }
 
 .rede:hover {
+    animation: 5s;
     color: #ffbb33;
 }

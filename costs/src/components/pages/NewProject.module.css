@@ -5,9 +5,72 @@
 }
 
 .newproject_container h1 {
+    text-align: center;
     margin-bottom: 0.5em;
 }
 
 .newproject_container p {
+    text-align: center;
     color: #7b7b7b;
+}
+
+.form {
+    width: 100%;
+    margin: 2em 0;
+}
+
+.form_error {
+    color: red;
+}
+
+.form_control {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.form_control label {
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
+.form_control input {
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
+
+.form_control input::placeholder {
+    color: #7b7b7b;
+}
+
+.form_control p {
+    color: red;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+
+.btn {
+    background-color: #222;
+    color: #fff;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    border: none;
+    
+}
+
+.botao {
+    justify-content: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.btn:hover {
+    color: #ffbb33;
+}
+
+.error_message {
+    color: red;
 }

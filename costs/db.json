@@ -1,33 +1,26 @@
 {
   "projects": [
     {
-      "name": "Cabaré Micouis",
-      "budget": "27000",
+      "name": "Mococa",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "Tanajura",
+      "budget": "200",
       "category": {
         "id": "1",
         "name": "Infra"
       },
       "cost": 0,
       "services": [],
-      "id": 3
-    },
-    {
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "name": "Como Invadir a Angola",
-      "budget": "100000",
-      "cost": 500,
-      "services": [
-        {
-          "name": "Contratar Dev PhP",
-          "cost": "500",
-          "description": "vai criar a função de envio de e-mails",
-          "id": "f0c88c2e-fa0c-4646-8018-9bcbea7b9288"
-        }
-      ],
-      "id": 5
+      "id": 13
     }
   ],
   "categories": [
